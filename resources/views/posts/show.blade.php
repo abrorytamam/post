@@ -2,7 +2,7 @@
 
 @section('title', 'Data Post')
 @section('content')
-    <div class="row">
+    <div class="row justify-content-center">
         <div class="col-md-12">
             <div>
                 <h3 class="text-center my-4">Tutorial Laravel 10</h3>
